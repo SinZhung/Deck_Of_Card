@@ -9,9 +9,6 @@ This project implements a simple card game with multiple players, rounds, and ph
 - Java Development Kit (JDK)
 - IDE (e.g., IntelliJ, Eclipse)
 
-### Installation
-Run the Main.java file to start the game.
-
 How to Play
 1. Run the program.
 2. Enter player names.

@@ -17,7 +17,7 @@ How to Play
 
 
 Project Structure
-1. Card.java: // Defines the Card class with suit and rank.
+1. **Card.java**: 'Defines the Card class with suit and rank.'
 2. CardRankComparator.java: Comparator for sorting cards by rank.
 3. CardSuitComparator.java: Comparator for sorting cards by suit.
 4. DeckOfCards.java: Manages the deck of cards, shuffling, and dealing.
